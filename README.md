@@ -14,3 +14,6 @@ Manage a DevOps project using Git and GitHub best practices.
 
 ## Workflow
 Create branches, commit changes, use Pull Requests, and merge approved changes.
+
+## Latest Update
+This project demonstrates Git branching and version control.
